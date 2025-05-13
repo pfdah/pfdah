@@ -71,7 +71,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pfdah&show_icons=true&theme=gruvbox&count_private=true" width="450" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pfdah&theme=gruvbox"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikdahal&theme=gruvbox"/>
 </p>
 
 
