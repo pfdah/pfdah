@@ -69,8 +69,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratikdahal&show_icons=true&theme=gruvbox&count_private=true" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pfdah&show_icons=true&theme=gruvbox&count_private=true" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pfdah&theme=gruvbox" width="420" />
 </p>
+
 
 ---
 
